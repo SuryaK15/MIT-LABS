@@ -1,7 +1,6 @@
-# MIT-B-CSE-CORE-LABS :- 
 
 # Description
-This Repo consists of Data Structures and Applications (DSA) , along with Object Oriented Programs (OOPs) , performed by me in MIT LABS.
+This Repository contains all the codes of Data Structures and Applications (DSA) , along with Object Oriented Programs (OOPs) , performed by me in Manipal Institute of Technology LABS.
 
 # Project Details :-
 
